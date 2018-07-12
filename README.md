@@ -50,7 +50,7 @@ $ sudo yum install socat-1.7.2.4-1.el7.rf.x86_64.rpm
 
 5. ensure python 2.7.x is installed
 ```
-$ python --versionh
+$ python --version
 ```
 
 Install ICP 2.1.0.3
